@@ -9,4 +9,4 @@ System powered by battery, should be portable.
 - [ ] Wire Buttons, Pump, and Relay to ESP32
 - [ ] Complete Project Overview
 - [ ] Test with water, before gasoline, and Fix Bugs
-      
+- [ ] Get ESP32 For the project
