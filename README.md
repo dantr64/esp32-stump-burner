@@ -1,9 +1,30 @@
-# ESP32-stump-burner
+# esp32-stump-burner
+By @dantr64 & @tunubb
 ESP32 MicroPython Stump Burner
 ## Project Overview:
 Use an ESP32 microcontroller, buttons, relay and water pump to drop diesel on to a stump.
 GPIO buttons should adjust water pump drop interval.
 System powered by battery, should be portable.
+
+## Setup
+### Requirements
+#### Software
+`python3`<br>
+`python3-pip`<br>
+`esptool`<br>
+
+#### Hardware
+- ESP32-WROOM-32
+- 30x10 Breadboard
+- [wires used here]
+- 12 volt car or motorcycle battery
+- 12 volt peristaltic pump
+- 4 Buttons
+- Compatible Relay
+
+### Building
+1. e
+2. 
 
 ## To-Do List:
 - [ ] Wire Buttons, Pump, and Relay to ESP32
@@ -14,6 +35,7 @@ System powered by battery, should be portable.
 
 - [ ] Bug Fixing and Project Complete
 
+<!--
 ## Materials:
 - [ ] Peristaltic Pump
 - [ ] ESP32 Micro Controller
@@ -21,3 +43,4 @@ System powered by battery, should be portable.
 - [ ] Relay
 - [ ] Buttons
 - [ ] Breadboard and Wires
+-->
