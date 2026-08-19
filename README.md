@@ -12,6 +12,7 @@ System powered by battery, should be portable.
 `python3`<br>
 `python3-pip`<br>
 `esptool`<br>
+[Latest ESP32 MicroPython Firmware](https://micropython.org/download/ESP32_GENERIC/)
 
 #### Hardware
 - ESP32-WROOM-32
