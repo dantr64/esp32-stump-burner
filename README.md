@@ -10,3 +10,4 @@ System powered by battery, should be portable.
 - [ ] Complete Project Overview
 - [ ] Test with water, before gasoline, and Fix Bugs
 - [ ] Get ESP32 For the project
+- [ ] Gather materials needed for the project 
