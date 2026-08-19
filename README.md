@@ -22,6 +22,7 @@ System powered by battery, should be portable.
 - 12 volt peristaltic pump
 - 4 Buttons
 - Compatible Relay
+- Dupont Connector
 
 ### Building
 1. e
